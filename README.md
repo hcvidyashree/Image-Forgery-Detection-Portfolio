@@ -55,6 +55,7 @@ The project includes:
 ![Forgery Summary](graphs/forgery_summary.png)
 
 ![Metrics Comparison](graphs/all_metrics_comparison.png)
+
 ## Important Note
 The detection techniques and image quality metrics highlight differences between images. These differences alone do not establish whether an image has been forged. Results should be interpreted with care, particularly when image dimensions differ.
 
