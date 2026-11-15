@@ -27,14 +27,13 @@ This project explores image forgery detection using basic image processing techn
 
 ## Project Structure
 ```text
-Image-Forgery-Detection/
+Image-Forgery-Detection-Portfolio/
 ├── detect.py
 ├── graph_analysis.py
 ├── requirements.txt
 ├── README.md
-└── dataset/
-    ├── graphs/
-    └── output/
+└── results/
+    └── graphs/
 ```
 
 ## Analysis Metrics
@@ -44,6 +43,13 @@ The project includes:
 - Absolute Mean Brightness Error (AMBE)
 - Structural Similarity Index (SSIM)
 
+## Project Visualizations
+
+### Forgery Detection Summary
+![Forgery Summary](results/graphs/forgery_summary.png)
+
+### Image Quality Metrics Comparison
+![Metrics Comparison](results/graphs/all_metrics_comparison.png)
 ## Important Note
 The detection techniques and image quality metrics highlight differences between images. These differences alone do not establish whether an image has been forged. Results should be interpreted with care, particularly when image dimensions differ.
 
