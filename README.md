@@ -52,10 +52,9 @@ The project includes:
 ## Project Visualizations
 
 ### Forgery Detection Summary
-![Forgery Summary](results/graphs/forgery_summary.png)
+![Forgery Summary](graphs/graphs/forgery_summary.png)
 
-### Image Quality Metrics Comparison
-![Metrics Comparison](results/graphs/all_metrics_comparison.png)
+![Metrics Comparison](graphs/graphs/all_metrics_comparison.png)
 ## Important Note
 The detection techniques and image quality metrics highlight differences between images. These differences alone do not establish whether an image has been forged. Results should be interpreted with care, particularly when image dimensions differ.
 
