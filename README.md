@@ -28,12 +28,18 @@ This project explores image forgery detection using basic image processing techn
 ## Project Structure
 ```text
 Image-Forgery-Detection-Portfolio/
+├── README.md
 ├── detect.py
 ├── graph_analysis.py
 ├── requirements.txt
-├── README.md
-└── results/
-    └── graphs/
+└── graphs/
+    ├── all_metrics_comparison.png
+    ├── ambe_graph.png
+    ├── forgery_summary.png
+    ├── image_quality_results.csv
+    ├── mse_graph.png
+    ├── psnr_graph.png
+    └── ssim_graph.png
 ```
 
 ## Analysis Metrics
